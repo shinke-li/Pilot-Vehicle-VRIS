@@ -1,0 +1,22 @@
+{
+    "road": "test",
+    "sidewalk": "test",
+    "construction": "test",
+    "tram-track": "test",
+    "fence": "test",
+    "pole": "test",
+    "traffic-light": "test",
+    "traffic-sign": "test",
+    "vegetation": "test",
+    "terrain": "test",
+    "sky": "test",
+    "human": "test",
+    "rail-track": "test",
+    "car": "test",
+    "truck": "test",
+    "trackbed": "test",
+    "on-rails": "test",
+    "rail-raised": "test",
+    "rail-embedded": "test",
+    "unidentified": "test"
+}
