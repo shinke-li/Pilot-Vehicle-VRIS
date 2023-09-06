@@ -8,4 +8,6 @@ By Shixiong Wang*, Xinke Li*, Zhirui Chen, and Yang Liu (The * marks equal contr
 
 From the Department of Industrial Systems Engineering and Management and the Department of Civil and Environmental Engineering, National University of Singapore
 
+## Introduction
+We provide the generation codes for RailInspect dataset.
 
